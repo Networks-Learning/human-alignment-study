@@ -1,0 +1,86 @@
+
+> summary(binomial_model2)
+ Family: binomial 
+  Links: mu = logit 
+Formula: final_matchsum | trials(final_matchcount) ~ 0 + level_name * initial_match + (1 | participant_id) 
+   Data: data_test2 (Number of observations: 352) 
+  Draws: 4 chains, each with iter = 5000; warmup = 2500; thin = 1;
+         total post-warmup draws = 10000
+
+Multilevel Hyperparameters:
+~participant_id (Number of levels: 176) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.44      0.10     0.25     0.62 1.00     2901     3228
+
+Regression Coefficients:
+                                 Estimate Est.Error l-95% CI u-95% CI Rhat
+level_namelevel_B                   -0.99      0.11    -1.20    -0.78 1.00
+level_namelevel_BP                  -0.91      0.10    -1.10    -0.71 1.00
+initial_match                        4.13      0.17     3.81     4.46 1.00
+level_namelevel_BP:initial_match     0.39      0.23    -0.06     0.85 1.00
+                                 Bulk_ESS Tail_ESS
+level_namelevel_B                    6903     6836
+level_namelevel_BP                   7420     6996
+initial_match                        6642     7067
+level_namelevel_BP:initial_match     7952     7439
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+
+> get_prior(binomial_model2, data = data_test2)
+                prior class                             coef          group
+          normal(0,1)     b                                                
+          normal(0,1)     b                    initial_match               
+          normal(0,1)     b                level_namelevel_B               
+          normal(0,1)     b               level_namelevel_BP               
+          normal(0,1)     b level_namelevel_BP:initial_match               
+ student_t(3, 0, 2.5)    sd                                                
+ student_t(3, 0, 2.5)    sd                                  participant_id
+ student_t(3, 0, 2.5)    sd                        Intercept participant_id
+ resp dpar nlpar lb ub       source
+                               user
+                       (vectorized)
+                       (vectorized)
+                       (vectorized)
+                       (vectorized)
+                  0         default
+                  0    (vectorized)
+                  0    (vectorized)
+
+> loo(binomial_model2)
+
+Computed from 10000 by 352 log-likelihood matrix.
+
+         Estimate   SE
+elpd_loo   -547.7 23.4
+p_loo        80.5  7.4
+looic      1095.4 46.7
+------
+MCSE of elpd_loo is NA.
+MCSE and ESS estimates assume MCMC draws (r_eff in [0.4, 1.4]).
+
+Pareto k diagnostic values:
+                         Count Pct.    Min. ESS
+(-Inf, 0.7]   (good)     351   99.7%   299     
+   (0.7, 1]   (bad)        1    0.3%   <NA>    
+   (1, Inf)   (very bad)   0    0.0%   <NA>    
+See help('pareto-k-diagnostic') for details.
+
+> h1 <- hypothesis(binomial_model2, c("exp(level_namelevel_BP) / (1 + exp(level_namelevel_BP))>exp(level_namelevel_B) / (1 + exp(level_namelevel_B))", .... [TRUNCATED] 
+
+> h1
+Hypothesis Tests for class b:
+                Hypothesis Estimate Est.Error CI.Lower CI.Upper Evid.Ratio
+1 (exp(level_namele... > 0     0.02      0.03    -0.03     0.06       2.59
+2 (exp(level_namele... > 0     0.02      0.01     0.00     0.03     113.94
+  Post.Prob Star
+1      0.72     
+2      0.99    *
+---
+'CI': 90%-CI for one-sided and 95%-CI for two-sided hypotheses.
+'*': For one-sided hypotheses, the posterior probability exceeds 95%;
+for two-sided hypotheses, the value tested against lies outside the 95%-CI.
+Posterior probabilities of point hypotheses assume equal prior probabilities.
+
+> sink()

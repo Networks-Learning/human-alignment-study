@@ -11,8 +11,4 @@ stats_evaluation.py
 /.vscode
 /materials/*old.json
 /img/*old*
-/*old*
-/prolific
-/prolific/*
-/analysis/*
 stats_evaluation.py

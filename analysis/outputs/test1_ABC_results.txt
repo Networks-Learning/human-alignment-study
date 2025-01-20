@@ -1,0 +1,95 @@
+
+> summary(binomial_model1)
+ Family: binomial 
+  Links: mu = logit 
+Formula: final_matchsum | trials(final_matchcount) ~ 0 + level_name * initial_match + (1 | participant_id) 
+   Data: data_test1 (Number of observations: 497) 
+  Draws: 4 chains, each with iter = 5000; warmup = 2500; thin = 1;
+         total post-warmup draws = 10000
+
+Multilevel Hyperparameters:
+~participant_id (Number of levels: 249) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.19      0.10     0.01     0.37 1.00     2383     3775
+
+Regression Coefficients:
+                                Estimate Est.Error l-95% CI u-95% CI Rhat
+level_namelevel_B                  -0.94      0.09    -1.12    -0.76 1.00
+level_namelevel_A                  -0.25      0.10    -0.44    -0.06 1.00
+level_namelevel_C                  -0.28      0.11    -0.50    -0.06 1.00
+initial_match                       3.97      0.15     3.68     4.27 1.00
+level_namelevel_A:initial_match    -0.95      0.20    -1.36    -0.55 1.00
+level_namelevel_C:initial_match    -1.06      0.21    -1.46    -0.65 1.00
+                                Bulk_ESS Tail_ESS
+level_namelevel_B                  12152     7578
+level_namelevel_A                  19040     8003
+level_namelevel_C                  15515     7322
+initial_match                       9271     7459
+level_namelevel_A:initial_match    10372     7971
+level_namelevel_C:initial_match     9448     7242
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+
+> get_prior(binomial_model1, data = data_test1)
+                prior class                            coef          group resp
+          normal(0,1)     b                                                    
+          normal(0,1)     b                   initial_match                    
+          normal(0,1)     b               level_namelevel_A                    
+          normal(0,1)     b level_namelevel_A:initial_match                    
+          normal(0,1)     b               level_namelevel_B                    
+          normal(0,1)     b               level_namelevel_C                    
+          normal(0,1)     b level_namelevel_C:initial_match                    
+ student_t(3, 0, 2.5)    sd                                                    
+ student_t(3, 0, 2.5)    sd                                 participant_id     
+ student_t(3, 0, 2.5)    sd                       Intercept participant_id     
+ dpar nlpar lb ub       source
+                          user
+                  (vectorized)
+                  (vectorized)
+                  (vectorized)
+                  (vectorized)
+                  (vectorized)
+                  (vectorized)
+             0         default
+             0    (vectorized)
+             0    (vectorized)
+
+> loo(binomial_model1)
+
+Computed from 10000 by 497 log-likelihood matrix.
+
+         Estimate   SE
+elpd_loo   -815.2 26.6
+p_loo        46.5  4.4
+looic      1630.3 53.1
+------
+MCSE of elpd_loo is 0.1.
+MCSE and ESS estimates assume MCMC draws (r_eff in [0.4, 2.0]).
+
+All Pareto k estimates are good (k < 0.7).
+See help('pareto-k-diagnostic') for details.
+
+> h1 <- hypothesis(binomial_model1, c("exp(level_namelevel_A) / (1 + exp(level_namelevel_A))>exp(level_namelevel_B) / (1 + exp(level_namelevel_B))",
++ .... [TRUNCATED] 
+
+> h1
+Hypothesis Tests for class b:
+                Hypothesis Estimate Est.Error CI.Lower CI.Upper Evid.Ratio
+1 (exp(level_namele... > 0     0.16      0.03     0.11     0.21        Inf
+2 (exp(level_namele... > 0    -0.01      0.01    -0.03     0.00       0.05
+3 (exp(level_namele... > 0     0.15      0.03     0.09     0.20        Inf
+4 (exp(level_namele... > 0    -0.02      0.01    -0.04    -0.01       0.01
+  Post.Prob Star
+1      1.00    *
+2      0.05     
+3      1.00    *
+4      0.01     
+---
+'CI': 90%-CI for one-sided and 95%-CI for two-sided hypotheses.
+'*': For one-sided hypotheses, the posterior probability exceeds 95%;
+for two-sided hypotheses, the value tested against lies outside the 95%-CI.
+Posterior probabilities of point hypotheses assume equal prior probabilities.
+
+> sink()  
