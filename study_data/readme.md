@@ -1,7 +1,7 @@
-# Dataset Name
+# Human-Alignment Study Data
 
 ## Overview
-This datatset contains study data collected to analyse to what extend the degree of alignment between
+This dataset contains the study data collected to analyze to what extend the degree of alignment between
 the AI confidence and the decision
 maker’s confidence on their own
 predictions modulates the utility of
@@ -11,6 +11,14 @@ Participants of the study play an simple card game — participants guess the co
 randomly picked card from a pile of red and black cards that is partially observed
 assisted by an AI model.
 The group condition assigned to each participant steers the degree of alignment of the AI model. 
+As group conditions, we have
+
+- Group <img src="../symbols/symbolA.png" alt="small icon" height="15"> (denoted by A in files)
+- Group <img src="../symbols/symbolB.png" alt="small icon" height="15"> (denoted by B in files)
+- Group <img src="../symbols/symbolC.png" alt="small icon" height="15"> (denoted by C in files)
+- Group <img src="../symbols/symbolBP.png" alt="small icon" height="15"> (denoted by BP in files)
+
+where the symbols indicate the induced perception bias as described in the paper.
 
 ## Dataset Description
 
@@ -25,7 +33,7 @@ The group condition assigned to each participant steers the degree of alignment 
 ## Directory Structure
 ```
 study_data/
-├── readme.md          # Game data from group condition A
+├── readme.md          # Data description file
 ├── group_A.csv        # Game data from group condition A
 ├── group_B.csv        # Game data from group condition B
 ├── group_C.csv        # Game data from group condition C
@@ -34,6 +42,23 @@ study_data/
 ├── end_of_game_survey.csv     # Survey data from end of game survey
 ├── end_of_study_survey.csv    # Survey data from end of study survey
 └── demo_survey.csv            # Survey data from demographic survey
+```
+
+## Data Quality
+We separated game data and survey data into different files. Game data is saved by group condition of participants. Survey data is saved by survey type. Game data includes games designed as attention tests marked by a negative ```game_id```. Each participant completed 24 games and 3 attention tests. The attention tests can be used to filter out participants. There is no missing data as the only data saved was from participants that completed the study. 
+
+## Intended Uses
+This study was conducted to better understand AI-assisted decision making using a gamified setting. This study does not contain sensitive data.
+
+## Technical Requirements
+The dataset is relatively small so there are no minimum hardware requirements.
+
+## Loading the Data
+```python
+# Example code for loading the dataset
+import pandas as pd
+
+df = pd.read_csv('study_data/group_A.csv')
 ```
 
 ### Features - Game Data
@@ -77,22 +102,6 @@ study_data/
 | subjects | categorical | self-declared study area of degree  | N/A |
 
 
-## Data Quality
-We separated game data and survey data into different files. Game data is saved by group condition of participants. Survey data is saved by survey type. Game data includes games designed as attention tests marked by a negative ```game_id```. Each participant completed 24 games and 3 attention tests. The attention tests can be used to filter out participants. There is no missing data as the only data saved was from participants that completed the study. 
-
-## Intended Uses
-This study was conducted to better understand AI-assisted decision making using a gamified setting. This study does not contain sensitive data.
-
-## Technical Requirements
-The dataset is relatively small so there are no minimum hardware requirements.
-
-## Loading the Data
-```python
-# Example code for loading the dataset
-import pandas as pd
-
-df = pd.read_csv('study_data/group_A.csv')
-```
 
 <!-- ## Citation
 If you use this dataset, please cite:

@@ -47,6 +47,14 @@ Participants of the study play an simple card game — participants guess the co
 randomly picked card from a pile of red and black cards that is partially observed
 assisted by an AI model.
 The group condition assigned to each participant steers the degree of alignment of the AI model. 
+As group conditions, we have
+
+- Group <img src="./symbols/symbolA.png" alt="small icon" height="15"> (denoted by A in files)
+- Group <img src="./symbols/symbolB.png" alt="small icon" height="15"> (denoted by B in files)
+- Group <img src="./symbols/symbolC.png" alt="small icon" height="15"> (denoted by C in files)
+- Group <img src="./symbols/symbolBP.png" alt="small icon" height="15"> (denoted by BP in files)
+
+where the symbols indicate the induced perception bias as described in the paper.
 
 For more details on the dataset structure see the ```readme.md``` file in the study data directory.
 
@@ -61,7 +69,7 @@ For more details on the dataset structure see the ```readme.md``` file in the st
 ### Directory Structure
 ```
 study_data/
-├── readme.md          # Game data from group condition A
+├── readme.md          # Data description file
 ├── group_A.csv        # Game data from group condition A
 ├── group_B.csv        # Game data from group condition B
 ├── group_C.csv        # Game data from group condition C
