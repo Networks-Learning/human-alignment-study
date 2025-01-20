@@ -93,11 +93,6 @@ analysis/                      # Analysis code
 3. Run ```evaluation_survey.ipynb``` notebook
 3. Run ```bayes_tests.R``` script
 
-### Reproducing Paper Results
-To reproduce specific figures or analyses from the paper:
-1. Figure 1: Run `scripts/03_figures.R` with argument `--figure 1`
-2. Main analysis: Execute `scripts/02_analysis.R`
-3. [Add other specific instructions]
 
 ## Study Website
 
