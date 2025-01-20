@@ -1,0 +1,140 @@
+input,
+textarea,
+select {
+  border-radius: 0.25rem;
+  border-width: 1px;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+input,
+select {
+  height: 2.5rem;
+}
+.jspsych-display-element {
+  color: #6e7072; 
+ } 
+.Red {
+    color: #ee4a4a;
+    font-weight: bold;
+  }
+.Black { /* OK, a bit contrived... */
+    color: #000000;
+    font-weight: bold;
+}
+.orange { /* OK, a bit contrived... */
+    /* color: #ff712c; */
+    font-weight: bold;
+}
+.green{ /* OK, a bit contrived... */
+  color: #53e00d;
+  font-weight: bold;
+}
+.attention { /* OK, a bit contrived... */
+  color: #d55b5b; 
+  /* font-weight: bold; */
+}
+.blue { /* OK, a bit contrived... */
+    color: #008575;
+    font-weight: bold;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.center-stimuli {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center-outcome {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.center-small {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.stimuli-container {
+  border: 1px solid #6e7072; /* Set the border style */
+  display: inline-block;  /*Ensure the container wraps around the image */
+  width: 70%;
+}
+.outcome-container {
+  border: 1px solid #6e7072; /* Set the border style */
+  display: inline-block;  /*Ensure the container wraps around the image */
+  width: 20%;
+} 
+.image-container {
+  border: 1px solid #6e7072; /* Set the border style */
+  display: inline-block;  /*Ensure the container wraps around the image */
+}
+
+.red-btn {
+    background-color: #ee4a4a;
+    color: white;
+    border: none;
+    font-size: 15px;
+    border-radius: 2px;
+    padding: 5px 29px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: left;
+    float: right;
+}
+  
+.red-btn:hover {
+  background-color: #bd3838;
+}
+.black-btn {
+  background-color: #434343;
+  color: white;
+  border: none;
+  font-size: 15px;
+  border-radius: 2px;
+  padding: 5px 29px;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: left;
+  float: right;
+}
+
+.black-btn:hover {
+  background-color: #171717;
+}
+
+.jspsych-btn {
+  background-color: #919191;
+  color: white;
+  border: none;
+  font-size: 15px;
+  border-radius: 2px;
+  padding: 5px 29px;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: left;
+}
+
+.jspsych-btn:hover {
+  background-color: #6b6b6b;
+}
+
+.bottom-link {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+.my-link {
+  color: rgb(64, 162, 194);
+}
+

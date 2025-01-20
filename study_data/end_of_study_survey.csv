@@ -1,0 +1,704 @@
+participant_id,level_name,final_recap,changed_confidence,trust,accuracy
+669e9f5cc2490,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,2
+669e9f5ce72ca,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,1,1
+669ea009e06f7,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+669ea0b810826,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",3,1,3
+669ea0cb40e7d,level_A,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",1,1,3
+669ea10c3d911,level_A,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,1,1
+669ea1397d962,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,2
+669ea181eba61,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,2
+669ea18f9de24,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+669ea1a7d5e2b,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,3
+669ea1d6c3f84,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",0,0,3
+669ea1df424c2,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,1,1
+669ea20a8085d,level_A,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,1,1
+669ea21750af3,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,3
+669ea2624847b,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,3
+669ea29ca1359,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,2
+669ea2d6f1375,level_B,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,1,1
+669ea2e5dc218,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,1,1
+669ea30b5f254,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea30d3ded3,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,1,3
+669ea315dc8be,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+669ea31e8ba7d,level_B,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",2,2,3
+669ea3242fdf3,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,4
+669ea32be27ed,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,3
+669ea355117f3,level_B,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,4
+669ea3a27dfed,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,4
+669ea3ad733f7,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,2,3
+669ea3b229326,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea3ba5ae5f,level_B,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,1,1
+669ea3e910945,level_A,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",4,2,3
+669ea40467bbe,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,2
+669ea45ab9ff1,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea4650362e,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,0,2
+669ea48e9b3ec,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,0,1
+669ea4b2d0597,level_B,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",4,3,3
+669ea4f2285a5,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea51870036,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+669ea51b09d6e,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea5351f66e,level_A,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",1,1,1
+669ea55ee8f22,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+669ea5617387e,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,1,2
+669ea57f52d2a,level_C,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,1,1
+669ea5a99b709,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+669ea5b8c922f,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+669ea5c2b4792,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+669ea5c656009,level_C,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",1,0,0
+669ea5d0e878c,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,4,3
+669ea5fbd978d,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,3,3
+669ea6162f3eb,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+669ea618042c6,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+669ea63b1c2fc,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+669ea66244a72,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+669ea66d8c49c,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669ea68584c39,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,4
+669ea686678e7,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669ea6880e82b,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,1,2
+669ea68d89ccf,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+669ea69626141,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,4,4
+669ea6a120903,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669ea6a7c4f1c,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,2,3
+669ea6bc122f4,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,1,1
+669ea6c1b3bbb,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,0,0
+669ea704607fa,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea71040b9d,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,0,1
+669ea71b37db0,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea71ce060b,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea72e2f7ec,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+669ea73241900,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+669ea743eb7d0,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,4,3
+669ea748b4e45,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+669ea7560f8c8,level_C,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,4,3
+669ea76cdc956,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,3
+669ea78ed3dd8,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea799048de,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669ea7a72e795,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,3
+669ea7ae6c13a,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea7b949ec5,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+669ea7c2dfd7e,level_B,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",1,2,0
+669ea7c718796,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,3
+669ea7db9622d,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669ea7e282b03,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,3
+669ea7e3477ba,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+669ea7e45c648,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,2,3
+669ea7e6a4137,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+669ea7eb615c4,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+669ea7ec080e9,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,1
+669ea7f10716e,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",4,3,3
+669ea7fa3c046,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,2,3
+669ea802afe94,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+669ea807de53f,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,1,2
+669ea8081c7b8,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,4,4
+669ea809f0b72,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
+669ea81b6caad,level_A,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,3,3
+669ea81be5ffc,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,3
+669ea81d7d890,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+669ea81eb2cf2,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,2,3
+669ea820d04a5,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,1,2
+669ea829f23c6,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+669ea82bf0444,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+669ea82e664a1,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,2
+669ea82f64f27,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+669ea83327361,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,1,1
+669ea8345f11e,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,3
+669ea83561a21,level_B,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,1,1
+669ea838e3f6a,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,3
+669ea84d2fead,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea868641dd,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,2,3
+669ea8708f846,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,2
+669ea87ace179,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+669ea87c6ef60,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+669ea87cad48b,level_C,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",0,2,1
+669ea8828ba32,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+669ea88af131a,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,3
+669ea88fd82df,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+669ea89ece079,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,3
+669ea8af19bae,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+669ea8af7e271,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,2,3
+669ea8b814d85,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,0,0
+669ea8c1a4862,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,2,3
+669ea8c96a3ce,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+669ea8cc70d3e,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669ea8d3031e8,level_C,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,3,3
+669ea8e986bf9,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,3
+669ea8fc925b6,level_B,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,3,3
+669ea8fd47beb,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,0,2
+669ea9068c927,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+669ea90e3b9c2,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669ea9105fa73,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+669ea9132b55c,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+669ea9179e1c5,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,2,3
+669ea92adfcd7,level_B,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,3
+669ea9313ec9c,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,3
+669ea942820bd,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,4
+669ea94974ce5,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,2,3
+669ea956075c0,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,2,3
+669ea969ee214,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,4
+669ea96eedce4,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+669ea977e5879,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,4
+669ea978b26ae,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,1
+669ea98b82899,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+669ea9939bb96,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,1,2
+669ea99ca2c70,level_C,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",4,4,3
+669ea99d58e0a,level_B,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
+669ea99f8c1de,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,1,2
+669ea9a78f11f,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669ea9a9346a1,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,1,4
+669ea9ae7dd87,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,4,4
+669ea9b90595c,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,4
+669ea9b93a23e,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+669ea9c207724,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,2
+669ea9c7287c1,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,0
+669ea9c808141,level_A,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",2,2,3
+669ea9d178a45,level_C,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,2,2
+669ea9d70b3f5,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+669ea9db876ab,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,2,3
+669ea9e062b2f,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+669ea9e73a4ba,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669ea9f5c0449,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,1
+669ea9f5cde8f,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+669ea9f8bbf30,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,0,3
+669eaa00702a7,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,4
+669eaa03e7f39,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,2,2
+669eaa048c424,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,3
+669eaa0eb4a0f,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+669eaa135b9d4,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,1,3
+669eaa1893a17,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",4,1,0
+669eaa1c85bf4,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,1
+669eaa28dd497,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,2
+669eaa39bbadf,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
+669eaa3d4f49b,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+669eaa41a0034,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,3
+669eaa5691761,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,1
+669eaa5b2b730,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+669eaa63e0fc7,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+669eaa696ff2e,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+669eaa6b51b1e,level_A,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,2,2
+669eaa7569061,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,3
+669eaa8483d61,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,0,1
+669eaa8819bd7,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,2
+669eaa8a00de7,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+669eaa977629f,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+669eaaa1c0953,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669eaaa1c8e3e,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,0,0
+669eaaa4c8824,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+669eaaa673a98,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+669eaaa776fef,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,2,3
+669eaaad11e96,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669eaab09a52f,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,3,3
+669eaac300cca,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,3,3
+669eaac8ddfa7,level_B,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,3,3
+669eaacf8bdb7,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,3,3
+669eaadc90bf9,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,3
+669eaade90161,level_B,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,1,3
+669eaae58348c,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,3
+669eaae9ca68e,level_A,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",2,0,1
+669eaaef07815,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,2
+669eaaf484ab3,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669eaaf995418,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+669eaafc43940,level_C,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",0,0,0
+669eaaff9cf06,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,3
+669eab04dd7b9,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,4
+669eab062626f,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+669eab11b2b05,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+669eab1da5563,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669eab20c8360,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,4
+669eab2428aa8,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,1,2
+669eab2a56745,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+669eab3045d2c,level_B,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",1,1,3
+669eab37cac4b,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+669eab42407a1,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+669eab425112d,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,1
+669eab43511b4,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,2,3
+669eab4ce3335,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,1
+669eab53d7708,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+669eab55745e9,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+669eab5a87d8d,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+669eab5b58c3a,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,2,3
+669eab5b60634,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+669eab7ce0fef,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+669eab823259f,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+669eab942cfd1,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+669eabaa2da79,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+669eabbeca297,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+669eabc1c60a3,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669eabc7b0009,level_B,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",0,1,1
+669eabe2d11f3,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,2,2
+669eabf90348a,level_B,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",2,1,1
+669eac0432fbc,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,4,3
+669eac085ba5e,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,4
+669eac131a3c0,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+669eac14180ce,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+669eac18afecf,level_A,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",0,0,0
+669eac19f0653,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+669eac240a485,level_C,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,1,1
+669eac2f4caba,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,1,1
+669eac37d95e9,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+669eac3a95c3d,level_C,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",2,2,2
+669eac4649253,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",3,2,2
+669eac571d5fb,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,1,2
+669eac5ab91d8,level_B,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,1,2
+669eac7059347,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,1
+669eac719622e,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,2
+669eac74eebfe,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",3,1,3
+669eac81a4f22,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+669eac83757d7,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+669eac8b46d83,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+669eac95e511a,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669eacb7722c8,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+669eacb8172fb,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+669eacbe6f7e5,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+669eaccdb6b0b,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",4,3,4
+669eace1391f7,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+669eace2f27e2,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,2,3
+669ead14dc3e6,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,1,1
+669ead15beac1,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,3,3
+669ead21d8943,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,1,2
+669ead2ed608b,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+669ead2fe87fa,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,3
+669ead3681eaf,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+669ead61542a1,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+669ead6245c74,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+669ead6ac54e0,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+669ead6d1ea96,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,1,2
+669ead8b8f546,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,1,2
+669eadc165257,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,4
+669eadd64bcba,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,3
+669eade90fb77,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,3,3
+669eadf67468c,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669eae0164379,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,1,2
+669eae4c32702,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+669eae4ff2c89,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,3
+669eae70d11eb,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+669eae8e1b8ae,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+669eae9979578,level_B,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,3
+669eaea93c9f1,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+669eaeba5962d,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+669eaec945718,level_C,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,3,3
+669eaf21675d0,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669eaf2c88695,level_B,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,1,3
+669eaf5200483,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,4,3
+669eaf5498aa3,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,3
+669eaf558ca6f,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,3,3
+669eaf7404e0f,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+669eafb57ce2b,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+669eb0537a5fa,level_C,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,3,3
+669eb0567b190,level_C,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",2,1,1
+669eb0df4dec4,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+669eb0f083557,level_B,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,3
+669eb1030b307,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+669eb1d4524b7,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669eb218d9979,level_C,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,1
+669eb2c571ba7,level_A,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,3
+669eb3c2ea5ec,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+669eb3d0c00b6,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,4
+669eb3e9a7081,level_B,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",3,1,2
+669eb5c63a8f6,level_C,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,4
+669eb60b380ad,level_B,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+669eb9dcaaf4e,level_A,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+669ebbf08797d,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,1,3
+66a10dfbbd15c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a10f886dd96,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,3
+66a11098dce3a,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",4,3,2
+66a1117b4813c,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,4,3
+66a112e2edb6b,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a11314405dc,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
+66a1133b6f8cb,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,4,3
+66a1140a6fc19,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,4
+66a114b0d2015,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,4
+66a114babee43,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",0,2,2
+66a114c8083ce,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,0,0
+66a114c85a470,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",4,3,1
+66a1154ea6d29,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,4,4
+66a115d14f227,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a115d469897,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a1160c36568,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,3
+66a116bdaeeae,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,0,1
+66a1174d11203,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,1,3
+66a1175155bd2,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,3
+66a1175acf0a3,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a11793f3fce,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+66a117967207f,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+66a117969665d,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,4
+66a117aaf343d,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a117b94ca3e,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,0,2
+66a117f87e84c,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,0,2
+66a11805c1ace,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+66a11809e82c6,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,2
+66a1181584d28,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",3,3,3
+66a1181806d58,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+66a1184ce3334,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a1186c9eaf1,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+66a1187b4b0a4,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,1
+66a118943197c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,3,2
+66a118afe87f6,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,3
+66a118ddadb9e,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,1
+66a118e1a2e1b,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,4
+66a118e938f2e,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a11949cb578,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,1,2
+66a11973bbd32,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,2,3
+66a119a9894ac,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,3,3
+66a119b8a6fa2,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",4,3,3
+66a119e78c4a0,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,2,2
+66a119f086c14,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+66a119f95a2f0,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a11a057f802,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,1
+66a11a19a71e2,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,3,3
+66a11a1ccc434,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,3,3
+66a11a685ed14,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,2
+66a11a6d9d165,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",4,1,2
+66a11a7760bec,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,1,1
+66a11acc6b25a,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a11ad043778,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,2
+66a11b2699606,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+66a11b2717d21,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,3
+66a11b2b744a3,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",2,3,3
+66a11b31658c5,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,1,3
+66a11b38a7d29,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,0,1
+66a11b5da85bb,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,3
+66a11b90d7b8a,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",0,3,4
+66a11baedef53,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a11bc090854,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,3,3
+66a11bcef03c5,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a11bf24a7cf,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,1
+66a11c4616c9b,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,3,3
+66a11c51aba3c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a11c7a269aa,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+66a11c88ca3a7,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+66a11c914a693,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,4,3
+66a11cfc10b06,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,2,2
+66a11d0962bc3,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+66a11d1284c81,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a11d19d9359,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",3,2,2
+66a11d27c3a93,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a11d48c75e2,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,3
+66a11d4bb26ab,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,3
+66a11d4eb4c63,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a11d55970ab,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,0,2
+66a11d5ea18f3,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,4,4
+66a11da8ae99a,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a11dbfe2116,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,2
+66a11dc76f468,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a11dd0d026d,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,2
+66a11e05c5844,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,4
+66a11e5143314,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a11e6f76fe7,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",4,2,2
+66a11e7624487,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,2
+66a11eb2dd942,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a11eb33a339,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+66a11eb5c246c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+66a11ebaa56c9,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,3
+66a11f10f026e,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,3
+66a11f1281023,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,3
+66a11f2c11dac,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+66a11f4429f7c,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,4
+66a11f4755ca1,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a11f4c67783,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+66a11f6206a1a,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,1,1
+66a11f676dec2,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a11f7b86eff,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+66a11fb0cb9c6,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a11ff7b2581,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a12002cd199,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+66a12048e78e6,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,3,1
+66a1204ac20b9,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,4,4
+66a120539f52c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,1,1
+66a1205e369dc,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a1206e66710,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,3,4
+66a120ba1c942,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,3
+66a120be6c20b,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,4
+66a120d7ca99a,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a120d858562,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",4,1,2
+66a120fa43b30,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+66a1211c2a526,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,4
+66a12122f2f19,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,3
+66a121305570d,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a121886e11f,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,3
+66a1219c6363c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,3
+66a121b061212,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,3
+66a121c130816,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+66a121c4b7dec,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,4,4
+66a121cc29b58,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+66a121d0e6e9c,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,4
+66a121eac9ef6,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,2
+66a121ee101f9,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,2
+66a121f81636d,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",2,1,1
+66a1221aad13c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,2
+66a1221da7727,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a122256d2db,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a122737294c,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,4
+66a122784da2d,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+66a122855e62f,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",4,3,3
+66a12285e0f99,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a12288f0e11,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",4,3,3
+66a122c05ff94,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+66a122c44273c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,0,1
+66a122f2bbb35,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a1234d340e9,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,2,3
+66a1237e8dff4,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+66a1238311587,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,1,3
+66a123b665aab,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a123f893854,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a12423f0532,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
+66a12431a222a,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a124346dd50,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",4,2,3
+66a1243ab5500,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,2
+66a124a4c713b,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,4
+66a124af8239d,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,3
+66a124ba3f6c9,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",1,1,2
+66a124c3c99ff,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,1
+66a124e059ac0,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+66a125855f608,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,1,3
+66a1258b79e1c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+66a1262a06c2e,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,3
+66a1262c03111,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a126322b445,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,2
+66a1263349dcd,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,1,2
+66a1265908ce1,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+66a126740c53d,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a126761f9d0,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+66a1267f3b13b,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,1
+66a1267f70d73,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a1268c4f411,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a1269be7505,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,1
+66a126bb51e7c,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",4,3,3
+66a126da62178,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,1
+66a126daa3261,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+66a126fc354b4,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,2
+66a12733167bc,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,2
+66a1273860174,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a127718501d,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a127a7c19e0,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,4,4
+66a127bb79f34,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+66a127e0eb73c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a127eb75d4d,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+66a127f1adc3b,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
+66a1280a011f6,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,2,3
+66a1282b7be28,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a1283a82a8f,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,4,4
+66a12860453cf,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",0,0,0
+66a128b53b599,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a129566948f,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+66a1295fdf407,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+66a12a0e4a59f,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,4
+66a12a27d77f5,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,4,4
+66a12a2c81257,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,3,3
+66a12a4c4c1ae,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a12a746c319,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,1,3
+66a12a7a15caa,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a12a9c35512,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,3,1
+66a12ad0b3623,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a12af2a8c37,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+66a12af58eb10,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a12b1553211,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a12b1d84331,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,0,1
+66a12b22bc35c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a12b52dd32c,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",4,4,3
+66a12b556190a,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,3,3
+66a12b613f5a0,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+66a12b638d693,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+66a12b6a489b8,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+66a12b6b79280,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+66a12bbe2291b,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a12bed178db,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a12bfc35d9d,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",0,1,1
+66a12c2a8c6c8,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,4,4
+66a12c60736ff,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,2
+66a12c64bd3c5,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,1,1
+66a12c7b5e4dc,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a12c8065b44,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,4
+66a12cab5510a,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+66a12cb765a54,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a12cc9ed324,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a12d20258f6,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a12d924459f,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a12db67bf30,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+66a12dc57206f,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,3,3
+66a12dc5723ae,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",2,3,3
+66a12df4a4e0e,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+66a12dfd9dd1a,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,1,2
+66a12e612923e,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+66a12e6d3eb40,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a12e9990a64,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",0,1,1
+66a12eaf4124a,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,2,3
+66a12ec3dc61b,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,1
+66a12ed51faef,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,4,4
+66a12ef1bbd78,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a12f0299329,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a12f1f6ba3a,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a12f540f44e,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,4
+66a12f6f01b0b,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a12fa3e6662,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a12fb662dcd,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,2
+66a12fc255c7e,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,1,1
+66a12fd3954dd,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+66a12fec174e7,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,4
+66a12ff541ce4,level_B_cal,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,1,2
+66a1300eed5b9,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,1
+66a1301fec6d4,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a1302a69968,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a1308a71157,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+66a130e542cdf,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
+66a130f5cd768,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,1,2
+66a1312b1c36f,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",4,2,3
+66a13157819c4,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a131a9e000d,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+66a131d864b8b,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+66a131d8ce2d8,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a131db47e54,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",4,2,3
+66a132038dfdb,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,4,3
+66a1320ad4ddf,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a13232e991f,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+66a1324114342,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+66a1329495622,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,2,3
+66a132c042bcd,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a132c244f44,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a132d887f68,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+66a133168cefa,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+66a13322b7109,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+66a133574a891,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,4,3
+66a1337d3901b,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,4
+66a13380d5609,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,1,2
+66a133950bf04,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,4,3
+66a1339edb748,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,2
+66a133e161089,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,2
+66a133f2772e4,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,4
+66a133f8bc840,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a1345e21b47,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,3
+66a1346270a52,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,1
+66a134968179c,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+66a13509319c5,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a1353332fae,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,1,0
+66a135419c9f3,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,4,4
+66a135500c69f,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",4,4,3
+66a1358b95277,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,3,3
+66a135a0c86ff,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66a135c84a37e,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+66a135d625f37,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a13603afb94,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,3
+66a1362e7e2e9,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,1,2
+66a136480b695,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,4,4
+66a1366bc1b9f,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a13688828ad,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,1,1
+66a136c4b3707,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,3,3
+66a1370b834e1,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",4,4,4
+66a1371d33857,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,2,2
+66a137c7645a8,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,3
+66a137e138e08,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,3,1
+66a137e977c35,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,1,3
+66a138684c8c8,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+66a13911c262c,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+66a13929c6cab,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a13944c7478,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+66a1395dc5d00,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
+66a13b7287261,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,3,3
+66a13ca26fc71,level_B_cal,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",0,0,0
+66a13e4f586cd,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,1,1
+66a13ed442857,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66a1544783618,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66a16c06c2196,level_B_cal,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66a1784baaa93,level_B_cal,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66a1d855393a9,level_B_cal,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,2,3
+66d08cc4a0f23,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66d0976b3ea32,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,3,3
+66d0978b3c01d,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66d0982583b2e,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,3
+66d09825e950b,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
+66d0a0dfceb88,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+66d0a17728803,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,2
+66d0a1f9529e0,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,4,4
+66d0a21e3f807,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,1,2
+66d0a227e21c5,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,1
+66d0a27601f40,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66d0a283497e7,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66d0a30640fa3,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,3,3
+66d0a310c6626,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+66d0a31a162f5,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,0,1
+66d0a31c038bd,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,2
+66d0a340e29f0,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66d0a3587b852,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66d0a365991e0,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66d0a3af098ef,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,4,3
+66d0a3be0ee04,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,3
+66d0a3e233915,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+66d0a3ef6cf0a,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,3,3
+66d0a407d5dc6,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+66d0a41c44d8c,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,3,3
+66d0a41d64cee,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,4
+66d0a424a24e8,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,3,4
+66d0a461ea446,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
+66d0a4905ec23,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+66d0a4a7dcb98,level_BP,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",1,1,1
+66d0a4bf21f0c,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,1,2
+66d0a4dac378f,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66d0a4e525cdc,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",2,0,1
+66d0a4eb0537c,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,1,3
+66d0a4f207a10,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,3
+66d0a4f88fea0,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,1,3
+66d0a4fca7aac,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,3
+66d0a50421479,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",3,1,1
+66d0a51473fc2,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+66d0a51618bf9,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,0,3
+66d0a5217bae7,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+66d0a5225db20,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,1,3
+66d0a529074cd,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66d0a542031f3,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,1,2
+66d0a54b8a747,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,2,3
+66d0a55a9bc58,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,4
+66d0a55c8583e,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,3,3
+66d0a55dd583e,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,0,1
+66d0a56baac5e,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+66d0a5763c6ef,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,1,3
+66d0a5afac809,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",1,2,3
+66d0a5bf69feb,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,2,3
+66d0a5bf94a72,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,3,3
+66d0a5cb92412,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66d0a5d4348dd,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,2,3
+66d0a5e98af30,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66d0a5fb79549,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66d0a608b7a03,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+66d0a62bb4d63,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,4,4
+66d0a642c39da,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66d0a64432667,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,3,3
+66d0a64e842b4,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,2,1
+66d0a65defd48,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,2
+66d0a6627db2e,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",2,1,1
+66d0a66a42feb,level_BP,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,1,2
+66d0a698d3ee8,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,0,0
+66d0a6b436b94,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66d0a6bbc943b,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,4
+66d0a6bcd669d,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66d0a6c68b1b9,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,3,1
+66d0a6dc474ac,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,3
+66d0a6ddc5f95,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",0,1,1
+66d0a6e5b9a03,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",2,2,3
+66d0a6efcd45a,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",2,3,3
+66d0a6fd1daaf,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",2,3,3
+66d0a725576c7,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,3
+66d0a73c5b118,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66d0a751f1d9f,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66d0a7664c23e,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,2,3
+66d0a77c879b1,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66d0a78556f8e,level_BP,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,2,3
+66d0a78b185c3,level_BP,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",4,1,2
+66d0a793b0333,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
+66d0a7a28b8bd,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,3,4
+66d0a7d0a3dbd,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",4,4,4
+66d0a7d940428,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",4,4,3
+66d0a842d940c,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,1,1
+66d0a8810bbf5,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,3
+66d0a8875573b,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,2,3
+66d0a8913e417,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",1,3,4
+66d0a8abb8af3,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,3,3
+66d0a8f4ea277,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",1,1,1
+66d0a9783bbc1,level_BP,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,0,1
+66d0a9b485143,level_BP,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,2,3
+66d0a9cc8396f,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",3,2,2
+66d0aa076bf34,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,3
+66d0aae9458fc,level_BP,"Overall, the AI's estimates changed my guess for the worse, and I would have gained more points without the AI.",3,3,3
+66d0ad6a6cbeb,level_BP,"Overall, the AI's estimates did not change my guess, and I would have gained a similar amount of points without the AI.",0,3,3
+66d0b05a1ea55,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,2,2
+66d0b38c65497,level_BP,"Overall, the AI's estimates changed my guess for the better, and I would have gained less points without the AI.",3,3,3
+66d701ba49773,level_A,"Overall, the AI's estimates did not change my guess, and I believe I would have gained less points by trusting the AI.",1,1,1
+66d702507b14d,level_A,"Overall, the AI's estimates did not change my guess, but I believe I would have gained more points by trusting the AI.",3,3,3
