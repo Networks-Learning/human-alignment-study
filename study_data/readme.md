@@ -77,19 +77,6 @@ study_data/
 | subjects | categorical | self-declared study area of degree  | N/A |
 
 
-### Labels/Target Variable
-Detailed description of the target variable(s), including:
-- Possible values/range
-- Class distribution (for classification tasks)
-- Any relevant metrics or statistics
-
-## Collection Methodology
-- Data collection process
-- Sampling methodology
-- Tools/sensors used (if applicable)
-- Any preprocessing steps applied
-- Known biases or limitations
-
 ## Data Quality
 We separated game data and survey data into different files. Game data is saved by group condition of participants. Survey data is saved by survey type. Game data includes games designed as attention tests marked by a negative ```game_id```. Each participant completed 24 games and 3 attention tests. The attention tests can be used to filter out participants. There is no missing data as the only data saved was from participants that completed the study. 
 
