@@ -143,8 +143,7 @@ gen.create_all_games()
 
 ### Calibration Algorithm
 
-The base calibration algorithm in ```calibration_algorithm/``` is a  binary histogram binning algorithm. We use the implementation provided by  
-https://github.com/aigen/df-posthoc-calibration .
+The base calibration algorithm in ```calibration_algorithm/``` is a  binary histogram binning algorithm. We use the implementation provided by  https://github.com/aigen/df-posthoc-calibration .
 
 ## License
 GNU General Public License (GPLv3)
