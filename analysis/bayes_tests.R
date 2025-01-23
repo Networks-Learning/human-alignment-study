@@ -10,7 +10,7 @@ library(bayesplot)
 library(reshape2)
 library(latex2exp)
 library(tikzDevice)
-# library(extrafont) 
+
 
 
 options(dplyr.summarise.inform = F)

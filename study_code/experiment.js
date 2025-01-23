@@ -21,7 +21,7 @@ const EXPERIMENT_FILES = {
     GAMES: `materials/games_${level_string}/${game_batch}.json`,
     ATTENTION_TESTS: "materials/attention_tests.json",
     CARDS: "materials/cards.json",
-    ALIGNMENT_ALG: "materials/alignment_alg.json"
+    MULTICALIBRATION_ALG: "materials/multicalibration_alg.json"
   };
 
 var points = 0;
@@ -41,7 +41,7 @@ var instructions = {};
 var cards = {};
 var games = {};
 var attention_tests = {};
-var alignment_alg = {}
+var multicalibration_alg = {}
 
 
 /* function to draw card from game pile */
@@ -99,7 +99,7 @@ await fetch(EXPERIMENT_FILES.GAMES).then(response => response.json()).then( data
 await fetch(EXPERIMENT_FILES.ATTENTION_TESTS).then(response => response.json()).then( data => attention_tests = data)
 
 /* get alignment algorithm from file */
-await fetch(EXPERIMENT_FILES.ALIGNMENT_ALG).then(response => response.json()).then( data => alignment_alg = data)
+await fetch(EXPERIMENT_FILES.MULTICALIBRATION_ALG).then(response => response.json()).then( data => multicalibration_alg = data)
 
 var games_shuffled = jsPsych.randomization.shuffle(games);
 
@@ -350,12 +350,12 @@ var survey = {
 
 function predict_proba(human_conf, ai_conf){
 
-    var delta = alignment_alg[human_conf]["delta"];
+    var delta = multicalibration_alg[human_conf]["delta"];
     var y_score = ai_conf/100 + Math.random() * delta/(1+delta);
-    var bin_edges = alignment_alg[human_conf]["bin_upper_edges"];
+    var bin_edges = multicalibration_alg[human_conf]["bin_upper_edges"];
     var bin = bin_edges.findIndex(element => element > y_score);
 
-    return Math.round(alignment_alg[human_conf]["mean_pred_values"][bin]);
+    return Math.round(multicalibration_alg[human_conf]["mean_pred_values"][bin]);
 
 }
 

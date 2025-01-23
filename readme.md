@@ -106,29 +106,29 @@ analysis/                      # Analysis code
 
 ### Directory Structure
 ```
-study_code/                     # Study website code
-├── calibration_algorithm/      # Base calibration algorithm
-├── img/                        # Images used in the study website
-├── jspsych/                    # Jspsych library files
-├── materials/                  # Json files for the study
-│   ├── games_level_A/          # Game batches for group condition A
-│   ├── games_level_B/          # Game batches for group condition B
-│   ├── games_level_C/          # Game batches for group condition C
-│   ├── games_level_BP/         # Game batches for group condition BP
-│   ├── games_level_B_cal/      # Game batches for group condition B used for multicalibration
-│   ├── attention_tests.json    # Games for attention checks
-│   ├── cards.json              # List of all card images used for pre-loading
-│   ├── instructions.json       # File containing game instructions
-│   └── alignment_alg.json      # Fitted multicalibration model
-├── alignment.ipynb/            # Notebook to run multicalibration algorithm on the calibration data and save the model
-├── experiment.js               # Main javascript file 
-├── game_generator.py           # Code to generate and save all game batches for the study
-├── index.html                  # Html Code
-├── styles.css                  # Style files
-├── survey.css                  # Style files
-├── tailwind.min.css            # Style files
-├── write_data.php              # Connects and sends data to database
-└── database_config.php         # Empty template for database information
+study_code/                         # Study website code
+├── calibration_algorithm/          # Base calibration algorithm
+├── img/                            # Images used in the study website
+├── jspsych/                        # Jspsych library files
+├── materials/                      # Json files for the study
+│   ├── games_level_A/              # Game batches for group condition A
+│   ├── games_level_B/              # Game batches for group condition B
+│   ├── games_level_C/              # Game batches for group condition C
+│   ├── games_level_BP/             # Game batches for group condition BP
+│   ├── games_level_B_cal/          # Game batches for group condition B used for multicalibration
+│   ├── attention_tests.json        # Games for attention checks
+│   ├── cards.json                  # List of all card images used for pre-loading
+│   ├── instructions.json           # File containing game instructions
+│   └── multicalibration_alg.json   # Fitted multicalibration model
+├──multicalibration.ipynb/          # Notebook to run multicalibration algorithm on the calibration data and save the model
+├── experiment.js                   # Main javascript file 
+├── game_generator.py               # Code to generate and save all game batches for the study
+├── index.html                      # Html Code
+├── styles.css                      # Style files
+├── survey.css                      # Style files
+├── tailwind.min.css                # Style files
+├── write_data.php                  # Connects and sends data to database
+└── database_config.php             # Empty template for database information
 ```
 
 ### Game Generation
@@ -143,6 +143,13 @@ gen = GameGenerator(nr_game_batches=20, nr_game_batches_calibration=60)
 gen.create_all_games()
 
 ```
+
+### Run Study
+
+To run the study for a certain group condition and game batch
+add the following to the website url: For group condition B and game batch 0 add
+
+```?PROLIFIC_PID=test&STUDY_ID=test&SESSION_ID=test&LEVEL=B&GAME_BATCH=0```
 
 ### Calibration Algorithm
 
