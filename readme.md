@@ -158,6 +158,9 @@ The base calibration algorithm in ```calibration_algorithm/``` is a  binary hist
 ## License
 GNU General Public License (GPLv3)
 
+## DOI
+10.5281/zenodo.14727347
+
 <!-- ## Citation
 If you use this code or data, please cite:
 ```
